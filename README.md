@@ -4,17 +4,12 @@
 
 ## 메인 페이지
 
-![ezgif.com-gif-maker.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60304e72-e18e-4407-b276-4623d4397d0f/ezgif.com-gif-maker.gif)
-
-![ezgif.com-gif-maker (1).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79c86bda-9744-41e9-9aae-b387842f6057/ezgif.com-gif-maker_(1).gif)
-
-![ezgif.com-gif-maker (2).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85cb9e80-85e9-4438-93bd-31f1440afbeb/ezgif.com-gif-maker_(2).gif)
-
-![ezgif.com-gif-maker (4).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dc852b2-899b-41df-ae46-3437453244b4/ezgif.com-gif-maker_(4).gif)
-
-![ezgif.com-gif-maker (3).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7380065b-28fa-4b25-846e-042f1f2029f8/ezgif.com-gif-maker_(3).gif)
-
-![ezgif.com-gif-maker (5).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b31c87ae-f379-4abd-ab43-ac8c7edeb5a8/ezgif.com-gif-maker_(5).gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68039555/131254857-cd52cab8-e9e2-4d4b-805e-620d47e3a8ff.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68039555/131254879-4290df7b-d72a-4bd8-8a77-1c956fdc3f20.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/68039555/131254900-75ef228f-9d53-41de-a998-55da333bef18.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/68039555/131254907-2405fc92-2d53-4b02-b00c-0e5fb6f476d4.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/68039555/131254908-ca557199-50da-4eb9-beeb-374121d457fd.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/68039555/131254910-0d4f71ff-0e83-4f91-bf8c-20457bf33976.gif)
 
 ## 💌 Installation & usage
 
